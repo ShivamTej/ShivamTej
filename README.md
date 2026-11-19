@@ -1,8 +1,20 @@
 # 👨‍💻 Shivam Tejpal
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100\:A21517&height=220&section=header&text=Shivam%20Tejpal&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Data%20Engineer&descSize=22&descAlignY=64](https://capsule-render.vercel.app/api?type=rounded\&color=0:0A0A0A,100\:A21517\&height=220\&section=header\&text=Shivam%20Tejpal\&fontSize=80\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=42\&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Data%20Engineer\&descSize=22\&descAlignY=64)" width="100%" alt="Shivam Tejpal" />   \<img src="[https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+Turning+data+into+insights.;%3E+Building+with+Python+%26+SQL.;%3E+Learning.+Building.+Improving](https://readme-typing-svg.demolab.com?font=VT323\&size=34\&duration=2000\&pause=1600\&color=E5EE4E\&background=0A0A0A\&center=true\&vCenter=true\&width=854\&height=64\&lines=%3E+Turning+data+into+insights.;%3E+Building+with+Python+%26+SQL.;%3E+Learning.+Building.+Improving)." width="100%" alt="Typing introduction" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100\:A21517&height=220&section=header&text=Shivam%20Tejpal&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Data%20Engineer&descSize=22&descAlignY=64](https://capsule-render.vercel.app/api?type=rounded\&color=0:0A0A0A,100\:A21517\&height=220\&section=header\&text=Shivam%20Tejpal\&fontSize=80\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=42\&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Data%20Engineer\&descSize=22\&descAlignY=64)" width="100%" alt="Shivam Tejpal" />
+\</p>
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/CS%20Graduate-ECBDD8?style=for-the-badge&labelColor=0A0A0A](https://img.shields.io/badge/CS%20Graduate-ECBDD8?style=for-the-badge\&labelColor=0A0A0A)" />   \<img src="[https://img.shields.io/badge/Python%20%26%20SQL-ECBDD8?style=for-the-badge&labelColor=0A0A0A](https://img.shields.io/badge/Python%20%26%20SQL-ECBDD8?style=for-the-badge\&labelColor=0A0A0A)" />   \<img src="[https://img.shields.io/badge/Data%20Analytics-ECBDD8?style=for-the-badge&labelColor=0A0A0A](https://img.shields.io/badge/Data%20Analytics-ECBDD8?style=for-the-badge\&labelColor=0A0A0A)" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+Turning+data+into+insights.;%3E+Building+with+Python+%26+SQL.;%3E+Learning.+Building.+Improving](https://readme-typing-svg.demolab.com?font=VT323\&size=34\&duration=2000\&pause=1600\&color=E5EE4E\&background=0A0A0A\&center=true\&vCenter=true\&width=854\&height=64\&lines=%3E+Turning+data+into+insights.;%3E+Building+with+Python+%26+SQL.;%3E+Learning.+Building.+Improving)." width="100%" alt="Typing introduction" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/CS%20Graduate-ECBDD8?style=for-the-badge&labelColor=0A0A0A](https://img.shields.io/badge/CS%20Graduate-ECBDD8?style=for-the-badge\&labelColor=0A0A0A)" alt="CS Graduate" />
+&#x20; \<img src="[https://img.shields.io/badge/Python%20%26%20SQL-ECBDD8?style=for-the-badge&labelColor=0A0A0A](https://img.shields.io/badge/Python%20%26%20SQL-ECBDD8?style=for-the-badge\&labelColor=0A0A0A)" alt="Python and SQL" />
+&#x20; \<img src="[https://img.shields.io/badge/Data%20Analytics-ECBDD8?style=for-the-badge&labelColor=0A0A0A](https://img.shields.io/badge/Data%20Analytics-ECBDD8?style=for-the-badge\&labelColor=0A0A0A)" alt="Data Analytics" />
+\</p>
+
+---
 
 ## 🧬 about
 
@@ -31,7 +43,8 @@ me = {
 }
 ```
 
-\<details> \<summary>\<b>🌱 My journey so far\</b>\</summary>
+\<details>
+\<summary>\<b>🌱 My journey so far — click to expand\</b>\</summary>
 
 \<br />
 
@@ -45,15 +58,13 @@ me = {
 
 \</details>
 
+---
+
 ## 💼 experience
 
-| Role                     | Experience                               |
-| ------------------------ | ---------------------------------------- |
-| **Data Analyst**         | Skill Arbitrage · 2026–Present           |
-| **Data Analyst Trainee** | LawSikho · 2025–2026                     |
-| **Teaching Associate**   | DY Patil International University · 2025 |
-
 ### Data Analyst
+
+\<sub>Skill Arbitrage · 2026–Present\</sub>
 
 - Working with data reporting and operational analytics.
 - Building reporting workflows using Google Sheets and Python.
@@ -61,15 +72,21 @@ me = {
 
 ### Data Analyst Trainee
 
+\<sub>LawSikho · 2025–2026\</sub>
+
 - Worked with datasets, reporting workflows and data operations.
 - Handled lead data, spreadsheet analysis and reporting.
 - Worked on data management and process improvements.
 
 ### Teaching Associate
 
+\<sub>DY Patil International University · 2025\</sub>
+
 - Taught Data Structures and Algorithms using C.
 - Delivered sessions on Modern Software Engineering and Testing.
 - Created assignments and learning material for students.
+
+---
 
 ## 🚀 projects
 
@@ -105,11 +122,11 @@ Developing practical projects focused on data cleaning, SQL analysis, reporting 
 
 `Python` `MySQL` `Excel` `Tableau`
 
+---
+
 ## 🧰 technical stack
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,mysql,java,c,git,github,vscode,postgres&perline=8&theme=dark](https://skillicons.dev/icons?i=python,mysql,java,c,git,github,vscode,postgres\&perline=8\&theme=dark)" alt="Technical skills" />
-\</p>
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=python,mysql,java,c,git,github,vscode,postgres&perline=8&theme=dark](https://skillicons.dev/icons?i=python,mysql,java,c,git,github,vscode,postgres\&perline=8\&theme=dark)" alt="Technical skills" /> \</p>
 
 **Data & Analytics**
 
@@ -128,6 +145,8 @@ Developing practical projects focused on data cleaning, SQL analysis, reporting 
 - Git & GitHub
 - Google Sheets API
 
+---
+
 ## 🎯 currently focused on
 
 - Strengthening SQL and advanced query writing.
@@ -135,6 +154,8 @@ Developing practical projects focused on data cleaning, SQL analysis, reporting 
 - Learning data warehousing and ETL concepts.
 - Exploring modern Data Engineering tools and technologies.
 - Building practical projects and documenting my learning.
+
+---
 
 ## 📬 let's connect
 
