@@ -69,7 +69,7 @@ me = {
 - Exploring automation to reduce repetitive reporting tasks.
 
 ### Data Analyst Trainee
-<sub>LawSikho · 2025–2026</sub>
+<sub>Skill Arbitrage · 2025–2026</sub>
 
 - Worked with datasets, reporting workflows and data operations.
 - Handled lead data, spreadsheet analysis and reporting.
